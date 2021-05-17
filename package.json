@@ -1,0 +1,11 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "A customizable boilerplate to kick start your React project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Jelil Faisal Abudu",
+  "license": "MIT"
+}
